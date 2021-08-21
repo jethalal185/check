@@ -5,7 +5,7 @@
      <title>HTML Application</title>
 	 <link href="css/site.css" rel="stylesheet">
 </head>
-
+<!-- changes made in second branch-->
 <body>
     <div class="main-container">
         <div class="cloud-image">
